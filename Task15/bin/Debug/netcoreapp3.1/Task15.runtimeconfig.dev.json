@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\amura\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\amura\\.nuget\\packages"
+    ]
+  }
+}
